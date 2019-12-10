@@ -1,0 +1,36 @@
+{
+    "Addimage": false,
+    "Images": {},
+    "Img": {},
+    "Slimit": 1,
+    "autoAdd": false,
+    "autoJoin": false,
+    "autoJoinTicket": false,
+    "autoLeave": true,
+    "autoRead": false,
+    "autoReject": false,
+    "changeGroupPicture": false,
+    "changePicture": false,
+    "foto": {},
+    "keyCommand": "",
+    "limit": 4,
+    "message": "ADD ME http://line.me/ti/p/~iia008",
+    "namecreator": "Satria..",
+    "readMember": {
+        "c5547ba4f2a6b278fbd6bea6ee74dbc1a": {
+            "u13130c3663d1c469d6ac2afab9dd2940": true,
+            "u1608ae21e5de2547b5fa8707b21ca220": true,
+            "u303c7b0e45475464c6e2e74a82137ed0": true,
+            "u39e5d26bd5cab57c4093cb6dcd35e28a": true,
+            "u44c9c1d441dbc88158744b64fe8b6a0a": true,
+            "u67d9e2f8ef3a144a4f42a16fd232c75b": true
+        }
+    },
+    "readPoint": {
+        "c5547ba4f2a6b278fbd6bea6ee74dbc1a": "9363399125282"
+    },
+    "restartBot": {},
+    "restartPoint": "c5547ba4f2a6b278fbd6bea6ee74dbc1a",
+    "server": {},
+    "userAgent": {}
+}
